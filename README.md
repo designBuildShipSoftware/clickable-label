@@ -1,5 +1,5 @@
 # Talk: How to make the descriptive text for a clickable element (like a checkbox, a radio button, etc) clickable (7/9/2019)
-
+<br /> 
 
 Use label tag
 
@@ -18,6 +18,7 @@ To understand why Web Content Accessibility is so important, check out this YouT
 Screen Reader Demo
 https://www.youtube.com/watch?v=2PMuBQ7LyOw&list=LLIgf-pzNAsP9iSQn0WgOs4g&index=2&t=3s
 
+<br /> 
 
 Thank You!
 
