@@ -1,4 +1,4 @@
-# Talk: How to make the descriptive text for a clickable element (like a checkbox, a radio button, etc) clickable -- July 9, 2019
+# Talk: How to make the descriptive text for a clickable element (like a checkbox, a radio button, etc) clickable (7/9/2019)
 
 
 Use label tag
