@@ -12,7 +12,7 @@ https://learn.freecodecamp.org/responsive-web-design/basic-html-and-html5/check-
 Improve Form Field Accessibility with the label Element
 https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/improve-form-field-accessibility-with-the-label-element/
 
-A blind user might want to hear all of the labels. With "for" attribute of the label tag, he/she might be able to get the point of the radio button or checkbox or input text area in less than 0.1 second. 
+A blind user might want to hear all of the labels. With "for" attribute of the label tag, he/she might be able to get the purpose of the radio button or checkbox or input text area in less than 0.1 second. 
 
 To understand why Web Content Accessibility is so important, check out this YouTube video: 
 Screen Reader Demo
