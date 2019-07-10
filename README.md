@@ -14,7 +14,7 @@ https://learn.freecodecamp.org/responsive-web-design/applied-accessibility/impro
 
 A blind user might want to hear all of the labels. With "for" attribute of the label tag, he/she might be able to get the purpose of the radio button or checkbox or input text area in less than 0.1 second. 
 
-To understand why Web Content Accessibility is so important, check out this YouTube video: 
+To understand why Web Content Accessibility is important, check out this YouTube video: 
 Screen Reader Demo
 https://www.youtube.com/watch?v=2PMuBQ7LyOw&list=LLIgf-pzNAsP9iSQn0WgOs4g&index=2&t=3s
 
